@@ -1,0 +1,1 @@
+After creating these files, you can upload them to an Amazon S3 bucket, then use Amazon CloudFront to distribute the content globally with low latency. Make sure to configure CloudFront to serve the S3 bucket as the origin. Additionally, you may need to set up CloudFront behaviors and cache settings according to your requirements.
